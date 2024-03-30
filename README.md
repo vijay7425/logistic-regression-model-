@@ -27,5 +27,5 @@ The dataset used for this project is the Titanic dataset, which can be found [he
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
-   cd titanic-survival-prediction
+   git clone https://github.com/vijay7425/logistic-regression-model-.git
+   
