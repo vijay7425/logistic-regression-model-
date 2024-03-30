@@ -23,11 +23,11 @@ Jupyter Notebook or any Python IDE
 Required libraries specified in requirements.txt
 Usage
 1. Clone the repository:
-   bash
+   ```bash
 
    git clone https://github.com/vijay7425/logistic-regression-model-.git
 2. Navigate to the project directory:
-   bash
+   ```bash
    cd titanic-survival-prediction
 
 3. Install the required libraries:
