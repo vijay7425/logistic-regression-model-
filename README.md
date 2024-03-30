@@ -25,7 +25,7 @@ Usage
 1. Clone the repository:
    bash
 
-   git clone https://github.com/imvanshika/Logistic-Regression-Model.git
+   git clone https://github.com/vijay7425/logistic-regression-model-.git
 2. Navigate to the project directory:
    bash
    cd titanic-survival-prediction
